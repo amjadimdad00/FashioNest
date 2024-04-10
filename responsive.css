@@ -6,16 +6,6 @@
 
   .right input {
     padding: 5px 10px;
-    width: 230px;
-  }
-
-  .homeImg {
-    width: 100vw;
-    height: 100px;
-  }
-
-  .itemImg {
-    width: 40vw;
-    margin: 0 80px;
+    /* width: 230px; */
   }
 }
